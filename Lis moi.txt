@@ -1,0 +1,5 @@
+Pour utilise ce logiciel c'est très simple il suffit d'envoyé Le "Nitro Sniper" (vous le renommez comme vous voulez) ensuite
+si il y'a plusieurs token vous allez dans le dossier "Token Checker" puis dans le fichier
+tokens vous allez mettre les tokens a check une fois fait ça vous allez lance le install.bat puis vous lancer le start.bat
+est après vous allez dans le dossier output est allez dans verified est y'aura les token qui marche est pour terminé vous
+allez dans le dossier "Token Info" est vous lancez un cmd et écrire "python token info.exe {token}"
